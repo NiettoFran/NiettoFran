@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/NiettoVale"><img src="https://img.shields.io/github/followers/NiettoVale?label=Follow&style=social" alt="GitHub followers"></a>
-  <a href="https://www.linkedin.com/in/valentin-francisco-diaz-nieto-6b3892263/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/valentin-francisco-nieto-6b3892263/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 > **"No te rindas aunque caigas o estés perdiendo, nunca te rindas, supera tus límites y te abrirás camino."** — *Yami Sukehiro*
