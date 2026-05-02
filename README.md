@@ -16,23 +16,46 @@ Soy un **Desarrollador Backend (PHP/Laravel)** que un día se preguntó cómo fu
 Actualmente estoy en el **3er año de la Licenciatura en Seguridad Informática**, aprendiendo las bases del Pentesting y la seguridad defensiva. Mi objetivo es unir mi experiencia construyendo aplicaciones con la mentalidad de protegerlas desde el código.
 
 * 🚀 **Foco actual:** Aprendiendo automatización con Python aplicado a Ciberseguridad.
+* 🎯 **Meta 2026:** Preparándome para la certificación **eJPT**.
 * 🐧 **Entorno:** Experimentando y rompiendo cosas en entornos Linux.
-* 📚 **En formación constante.**
 
 ---
 
-### 🛠️ Herramientas en mi mochila
+### 🛠️ Tecnologías y Herramientas
 
 #### 💻 Development & Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 
-#### 🛡️ Cybersecurity Learning Path
+#### 🛡️ Cybersecurity & Pentesting
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white&style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-FF8C00?logo=metasploit&logoColor=white&style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-005FB8?style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+
+---
+
+### 🚀 Proyectos Destacados
+
+#### 🐍 [Python Tools](https://github.com/NiettoVale/python-tools) (In Progress 🏗️)
+Espacio dedicado a la creación de herramientas **CLI** personalizadas para automatizar tareas diarias y desafíos de seguridad.
+*   **YT-Downloader:** Descarga de multimedia con interfaz profesional utilizando `Rich` y `Typer`.
+*   **Enfoque:** Uso de menús interactivos, tablas y gestión profesional de comandos.
+
+#### 🕹️ Hack The Box
+Actualmente resolviendo laboratorios para mejorar habilidades en **explotación de vulnerabilidades** y **post-explotación**.
+<p align="center">
+  <a href="https://app.hackthebox.com/profile/019d7469-0f24-71d7-aa9b-87ed24030fd8">
+    <img src="https://www.hackthebox.eu/badge/image/019d7469-0f24-71d7-aa9b-87ed24030fd8" alt="Hack The Box Profile">
+  </a>
+</p>
 
 ---
 
