@@ -42,13 +42,6 @@ Actualmente estoy en el **3er año de la Licenciatura en Seguridad Informática*
 
 ---
 
-### 🚀 Proyectos Destacados
-
-#### 🐍 [Python Tools](https://github.com/NiettoVale/python-tools) (In Progress 🏗️)
-Espacio dedicado a la creación de herramientas **CLI** personalizadas para automatizar tareas diarias y desafíos de seguridad.
-*   **YT-Downloader:** Descarga de multimedia con interfaz profesional utilizando `Rich` y `Typer`.
-*   **Enfoque:** Uso de menús interactivos, tablas y gestión profesional de comandos.
-
 #### 🕹️ Hack The Box
 Actualmente resolviendo laboratorios para mejorar habilidades en **explotación de vulnerabilidades** y **post-explotación**.
 <p align="center">
