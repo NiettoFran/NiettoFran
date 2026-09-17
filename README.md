@@ -54,7 +54,7 @@ Actualmente resolviendo laboratorios para mejorar habilidades en **explotación 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=NiettoVale&show_icons=true&theme=radical" alt="NiettoVale's Stats" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=NiettoFran&show_icons=true&theme=radical" alt="NiettoVale's Stats" />
 </p>
 
 ---
