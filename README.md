@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/NiettoFran"><img src="https://img.shields.io/github/followers/NiettoVale?label=Follow&style=social" alt="GitHub followers"></a>
-  <a href="www.linkedin.com/in/niettovale"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/niettovale"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 > **"No te rindas aunque caigas o estés perdiendo, nunca te rindas, supera tus límites y te abrirás camino."** — *Yami Sukehiro*
